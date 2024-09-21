@@ -29,7 +29,7 @@ If not using git, download this repo as zip file and extract.
 > 
 >           Search for 'Session Storage' menu
 >           1. Inside it click on 'https://telegram.blum.codes' file
->           1. Inside it seach for query_id line
+>           1. Inside it search for query_id line
 >           2. Click on it and the full value will be displayed below
 >           3. Copy it and it is your QUERY_URI
 
@@ -51,7 +51,14 @@ If not using git, download this repo as zip file and extract.
 >                    Eg:  Bearer fdfgdfggffgfdgdfgdfg...........
 > 8. It is your AUTH_TOKEN
 
+## Video Tutorial
 
+- Using Query URI  
+  
+https://github.com/user-attachments/assets/8f4bae85-10ee-4102-b085-0991f13ddb25
 
+- Using AUTH TOKEN  
+  
+https://github.com/user-attachments/assets/eb85310b-da57-4e89-9e71-37a826154c8c
 
 
