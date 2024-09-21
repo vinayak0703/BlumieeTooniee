@@ -29,9 +29,9 @@ If not using git, download this repo as zip file and extract.
 > 
 >           Search for 'Session Storage' menu
 >           1. Inside it click on 'https://telegram.blum.codes' file
->           1. Inside it search for query_id line
->           2. Click on it and the full value will be displayed below
->           3. Copy it and it is your QUERY_URI
+>           2. Inside it search for query_id line
+>           3. Click on it and the full value will be displayed below
+>           4. Copy it and it is your QUERY_URI
 
 - Using Authorization Token (Bearer)
 
@@ -48,7 +48,7 @@ If not using git, download this repo as zip file and extract.
 >                Search for "authorization:"
 > 7. Copy the whole value of the above variable
 > 
->                    Eg:  Bearer fdfgdfggffgfdgdfgdfg...........
+>                Eg:  Bearer fdfgdfggffgfdgdfgdfg...........
 > 8. It is your AUTH_TOKEN
 
 ## Video Tutorial
